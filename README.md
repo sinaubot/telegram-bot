@@ -8,4 +8,4 @@ d. Python
 
 Using method sendMessage
 
-touch me @MyEelectric
+touch me at Https://t.me/MyEelectric
